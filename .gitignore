@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+/.php
+.php.js
+
+/build
+/node_modules/
+node_modules/
+.idea
+node_modules
+
+# Lock files
+*.lock
+
+# Package file
+package.json
