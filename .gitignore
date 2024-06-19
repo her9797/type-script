@@ -1,7 +1,6 @@
 # dependencies
 /node_modules
-/.php
-.php.js
+
 
 /build
 /node_modules/
@@ -14,3 +13,8 @@ node_modules
 
 # Package file
 package.json
+package-lock.json
+
+tsconfig.json
+/public/
+public/
